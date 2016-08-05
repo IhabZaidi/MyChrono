@@ -1,0 +1,8 @@
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.csprojResolveAssemblyReference.cache
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.Form1.resources
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.Properties.Resources.resources
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.csproj.GenerateResource.Cache
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\bin\Debug\MyChrono.exe
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\bin\Debug\MyChrono.pdb
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.exe
+C:\Users\Ihabou\Documents\Visual Studio 2012\Projects\MyChrono\MyChrono\obj\Debug\MyChrono.pdb
